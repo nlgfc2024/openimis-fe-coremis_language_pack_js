@@ -107,6 +107,8 @@
   "location.locations.searcher.title.1": "TAs",
   "location.locations.searcher.title.2": "GVHs",
   "location.locations.searcher.title.3": "Villages",
+  "admin.user.regions": "Districts",
+  "admin.user.districts": "TAs",
   "menu.groups": "Households",
   "moveToNewGroup": "New Household",
   "openSearchReports.openSearch.groupReports": "Household reports",
