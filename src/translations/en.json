@@ -1,4 +1,9 @@
 {
+  "individual.enrollment.guidance.title": "Enrollment has a few stages",
+  "individual.enrollment.guidance.individual": "First, enrol individuals to the phase on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved individuals to their projects under the Projects tab.",
+  "individual.enrollment.guidance.household": "First, enrol households to the phase on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved households to their projects under the Projects tab.",
+  "core.searcher.applyFilters": "Apply Filters",
+  "householdValidation.uploadValidationList.buttonLabel": "Upload List",
   "addToNewGroup": "Add individual to this household",
   "changeGroupButtonTooltip": "Move to another household.",
   "claim_batch.groupBy": "Household By",
@@ -75,6 +80,8 @@
   "individual.enrollment.totalNumberOfGroups": "All households in the registry",
   "individual.enrollment.willEnroll": "{entity} to be enrolled",
   "individual.export.filename.groups": "households_export",
+  "individual.groups.action.enrollment": "Enrollment",
+  "individual.groups.action.export": "Export",
   "individual.group.create.mutationLabel": "Created Household {id}",
   "individual.group.createGroupAndMoveIndividual.mutationLabel": "Create household and move individual.",
   "individual.group.delete.mutationLabel": "Delete Household {id}",
