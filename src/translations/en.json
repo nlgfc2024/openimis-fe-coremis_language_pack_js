@@ -199,5 +199,7 @@
   "projectSocialProtection.projects.selectProgram.title": "Select Phase",
   "tasksManagement.task.source.CreateGroupAndMoveIndividualService": "Create Household And Move Individual Service",
   "tasksManagement.task.source.GroupIndividualService": "Household Individual Service",
+  "tasksManagement.saveButton.tooltip.enabled": "Save",
+  "tasksManagement.saveButton.tooltip.disabled": "Save",
   "validation_import_group_valid_items.tasks.title": "Import Household Valid Items"
 }
