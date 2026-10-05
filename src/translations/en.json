@@ -1,4 +1,9 @@
 {
+  "location.microCatchment.download.button": "Export",
+  "individual.enrollment.guidance.title": "Enrollment has a few stages",
+  "individual.enrollment.guidance.individual": "First, enrol individuals to the phase on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved individuals to their projects under the Projects tab.",
+  "individual.enrollment.guidance.household": "First, enrol households to the phase on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved households to their projects under the Projects tab.",
+  "householdValidation.uploadValidationList.buttonLabel": "Upload List",
   "addToNewGroup": "Add individual to this household",
   "changeGroupButtonTooltip": "Move to another household.",
   "claim_batch.groupBy": "Household By",
@@ -163,6 +168,8 @@
   "socialProtection.benefitPlan.benefitPlanHelmet": "Phase",
   "socialProtection.benefitPlan.benefitPlanSchema.label": "Phase Schema",
   "socialProtection.benefitPlan.create.mutationLabel": "Create Phase {id}",
+  "socialProtection.benefitPlan.create.success": "Phase created successfully.",
+  "socialProtection.benefitPlan.createButton.label": "Create Phase",
   "socialProtection.benefitPlan.delete.confirm.message": "Are you sure you want to delete the Phase?",
   "socialProtection.benefitPlan.delete.confirm.title": "Delete phase {code} {name}",
   "socialProtection.benefitPlan.delete.mutationLabel": "Delete Phase {id}",
@@ -192,5 +199,7 @@
   "projectSocialProtection.projects.selectProgram.title": "Select Phase",
   "tasksManagement.task.source.CreateGroupAndMoveIndividualService": "Create Household And Move Individual Service",
   "tasksManagement.task.source.GroupIndividualService": "Household Individual Service",
+  "tasksManagement.saveButton.tooltip.enabled": "Save",
+  "tasksManagement.saveButton.tooltip.disabled": "Save",
   "validation_import_group_valid_items.tasks.title": "Import Household Valid Items"
 }
