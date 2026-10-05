@@ -55,6 +55,7 @@
   "individual.enrollment.confirmGroupMessageDialog": "Are you sure you want to confirm the enrollment of the selected households into the {benefitPlanName} Phase?",
   "individual.enrollment.confirmMessageDialog": "Are you sure you want to confirm the enrollment of the selected individuals into the {benefitPlanName} Phase?",
   "individual.enrollment.criteria": "Phase Eligibility Criteria and Additional Filters",
+  "individual.enrollment.successMessage": "Your supervisor will be notified. Once they approve, you can assign the enrolled records to their projects.",
   "individual.enrollment.label": "Enroll Individuals to the phase",
   "individual.enrollment.capApplied": "Maximum {entity} for this enrollment",
   "individual.enrollment.emptyEligiblePool": "No {entity} are available to enroll. None match the criteria, or all matching records are already in this phase.",
