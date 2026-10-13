@@ -108,6 +108,8 @@
   "individual.individual.groupChange.confirm.message": "Individual {individualId} moved to Household {groupId}",
   "individual.individual.locationEditDisabledTitle": "Individual belongs to a household; Please edit location on their household",
   "individual.individual.upload.alert.sameFileName": "Filename exists for given Phase. Please change the filename.",
+  "group.individual.firstName": "First Name",
+  "group.individual.lastName": "Last Name",
   "individual.locationEditDisabledTitle": "Individual belongs to a household; Please edit location on their household",
   "individual.menu.groups": "Households",
   "individual.moveToNewGroup": "New Household",
