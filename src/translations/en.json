@@ -158,6 +158,8 @@
   "moveToNewGroup": "New Household",
   "openSearchReports.openSearch.groupReports": "Household reports",
   "paymentPlan.type.benefitplan": "Phase",
+  "paymentCycle.PaymentCyclePage.taskCreated.header": "Task created successfully",
+  "paymentCycle.PaymentCyclePage.taskCreated.body": "The payment cycle will be created once the task is approved.",
   "payroll.benefitConsumption.payroll.benefitPlan": "Phase",
   "payroll.benefitConsumption.payroll.benefitPlanName": "Phase",
   "payroll.payroll.benefitPlan": "Phase",
