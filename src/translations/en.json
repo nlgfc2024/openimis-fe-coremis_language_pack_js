@@ -99,7 +99,7 @@
   "individual.groupPicker.label": "Select a household.",
   "individual.groupTaskConfirmation.title": "Household Upload Confirmation",
   "individual.groups.pageTitle": "Households",
-  "individual.groups.searcherResultsTitle": "{groupsTotalCount} Households Found",
+  "individual.groups.searcherResultsTitle": "{groupsTotalCount} Households",
   "individual.individual.addButtonTooltip": "Add Individual to Household",
   "individual.individual.enrollment.confirmGroupMessageDialog": "Are you sure you want to confirm the enrollment of the selected households into the {benefitPlanName} Phase?",
   "individual.individual.enrollment.numberOfGroupsAssignedToProgramme": "Matching households already in any phase",
