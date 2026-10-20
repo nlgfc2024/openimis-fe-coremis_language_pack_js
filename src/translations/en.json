@@ -230,6 +230,7 @@
   "projectSocialProtection.projectBeneficiaries.dialogSubtitle": "Select active beneficiaries to assign to the activity",
   "projectSocialProtection.projectBeneficiaries.timeEntry.mutationLabel": "Updated {n} attendance entries for activity {name}",
   "projectSocialProtection.projectBeneficiaries.target.validation.message": "Assigned ({assigned}) + selected ({selected}) beneficiaries would total {total}, exceeding the activity target ({target}).",
+  "projectSocialProtection.export.label": "Export to Excel",
   "projectSocialProtection.export.filename.projects": "activities_export",
   "projectSocialProtection.project.benefitPlan": "Phase",
   "projectSocialProtection.projects.selectProgram.message": "Select the Phase that will own the new Activity.",
