@@ -168,6 +168,7 @@
   "socialProtection.approvalTable.dob": "Date of Birth",
   "socialProtection.approvalTable.national_id": "National ID",
   "socialProtection.approvalTable.household_pmt_score": "Household PMT Score",
+  "socialProtection.export.label": "Export to Excel",
   "socialProtection.beneficiary.benefitPlanTypePicker.GROUP": "HOUSEHOLD",
   "socialProtection.beneficiary.task.benefitPlan.id": "Phase",
   "socialProtection.benefitPackage.BenefitPlanDetailPanel.title": "Phase Details",
