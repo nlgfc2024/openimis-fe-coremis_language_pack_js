@@ -7,6 +7,8 @@
   "addToNewGroup": "Add individual to this household",
   "changeGroupButtonTooltip": "Move to another household.",
   "claim_batch.groupBy": "Household By",
+  "core.advancedFilters.district_id": "Location – District",
+  "core.advancedFilters.districtEquals": "Equals",
   "core.advancedFilters.fit_for_work": "Fit for work",
   "core.advancedFilters.form_number": "Household form number",
   "core.advancedFilters.gender": "Gender",
