@@ -119,7 +119,7 @@
   "enrolment.numberOfIndividualsNotAssignedToProgramme": "Number of Individuals Without Assignment to Program",
   "enrolment.numberOfIndividualsAssignedToSelectedProgramme": "Number Of Individuals Already Assigned to Selected Program",
   "enrolment.membershipRule.groups": "Only verified households with exactly one active primary worker can be enrolled. Filtering individuals by VERIFIED does not replace this household check.",
-  "enrolment.membershipRule.individuals": "Only individuals who are not members of an active household can be enrolled.",
+  "enrolment.membershipRule.individuals": "Only verified individuals who are not members of an active household can be enrolled.",
   "enrolment.cards.households.eligible": "Eligible households not yet in this Program",
   "enrolment.cards.households.maximum": "Maximum households for this enrolment",
   "enrolment.cards.households.selected": "Selected Beneficiaries",
