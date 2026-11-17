@@ -1,4 +1,7 @@
 {
+  "projectSocialProtection.project.sessionStartDate": "Session start date",
+  "projectSocialProtection.project.sessionEndDate": "Session end date",
+  "projectSocialProtection.project.sessionDates.invalid": "Session end date must not precede the start date.",
   "location.microCatchment.download.button": "Export",
   "individual.enrollment.guidance.title": "Enrollment has a few stages",
   "individual.enrollment.guidance.individual": "First, enrol individuals to the program on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved individuals to their activities under the Trainings tab.",
