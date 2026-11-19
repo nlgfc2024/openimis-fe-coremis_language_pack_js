@@ -1,4 +1,8 @@
 {
+  "projectSocialProtection.project.sessionStartDate": "Session start date",
+  "projectSocialProtection.project.sessionEndDate": "Session end date",
+  "projectSocialProtection.project.sessionDates.invalid": "Session end date must not precede session start date.",
+  "projectSocialProtection.project.deploymentType.error": "Unable to load the deployment type. Reload the page to try again.",
   "location.microCatchment.download.button": "Export",
   "enrolment.guidance.title": "Enrolment has a few stages",
   "enrolment.guidance.individual": "First, enrol individuals to the phase on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved individuals to their activities under the Activities tab.",
