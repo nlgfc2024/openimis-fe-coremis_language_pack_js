@@ -1,4 +1,8 @@
 {
+  "projectSocialProtection.project.sessionStartDate": "Session start date",
+  "projectSocialProtection.project.sessionEndDate": "Session end date",
+  "projectSocialProtection.project.sessionDates.invalid": "Session end date must not precede session start date.",
+  "projectSocialProtection.project.deploymentType.error": "Unable to load the deployment type. Reload the page to try again.",
   "location.microCatchment.download.button": "Export",
   "householdValidation.uploadValidationList.buttonLabel": "Upload List",
   "addToNewGroup": "Add individual to this household",
