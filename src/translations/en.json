@@ -1,4 +1,5 @@
 {
+  "projectSocialProtection.project.trainingFormConfig.error": "Unable to load the Training form configuration. Check its settings in Django admin and reload the page.",
   "projectSocialProtection.project.trainingModules": "Training modules",
   "projectSocialProtection.project.topicCount": "Number of topics",
   "projectSocialProtection.project.trainingModules.loadError": "Unable to load programme modules. Reload the page to try again.",
