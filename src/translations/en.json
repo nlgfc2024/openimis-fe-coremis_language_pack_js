@@ -1,4 +1,15 @@
 {
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingTitle": "Training Log Sheet",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingSubtitle": "Topic attendance register for participants",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingName": "Training Name",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingProgramme": "Programme",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingStatus": "Status",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingModules": "Training Modules",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingDates": "Session Start / End",
+  "projectSocialProtection.projectBeneficiaries.logSheetPdf.trainingAttendance": "Topic Attendance",
+  "projectSocialProtection.project.save.error": "Unable to save Training. Please try again.",
+  "projectSocialProtection.project.save.unconfirmed": "Save could not be confirmed. Check the Training list before retrying.",
+
   "projectSocialProtection.project.trainingFormConfig.error": "Unable to load the Training form configuration. Check its settings in Django admin and reload the page.",
   "projectSocialProtection.project.trainingModules": "Training modules",
   "projectSocialProtection.project.topicCount": "Number of topics",
