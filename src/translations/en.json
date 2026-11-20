@@ -4,7 +4,6 @@
   "projectSocialProtection.project.topicCount": "Number of topics",
   "projectSocialProtection.project.trainingModules.loadError": "Unable to load programme modules. Reload the page to try again.",
   "projectSocialProtection.project.trainingModules.empty": "This programme has no training modules. Configure them under Administration first.",
-  "projectSocialProtection.project.trainingModules.locked": "Modules are locked after attendance has been recorded.",
   "projectSocialProtection.trainingModules.title": "Training modules",
   "projectSocialProtection.trainingModules.name": "Module name",
   "projectSocialProtection.trainingModules.programmes": "Programmes",
