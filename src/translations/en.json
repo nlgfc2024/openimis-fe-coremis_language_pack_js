@@ -1,4 +1,5 @@
 {
+  "currency": "MWK",
   "location.microCatchment.download.button": "Export",
   "enrolment.guidance.title": "Enrolment has a few stages",
   "enrolment.guidance.individual": "First, enrol individuals to the phase on this screen and submit them. They then go to your supervisor for approval. Once approved, you can assign the approved individuals to their activities under the Activities tab.",
