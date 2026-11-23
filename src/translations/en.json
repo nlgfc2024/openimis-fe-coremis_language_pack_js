@@ -270,5 +270,6 @@
   "tasksManagement.saveButton.tooltip.enabled": "Save",
   "tasksManagement.saveButton.tooltip.disabled": "Save",
   "validation_import_group_valid_items.tasks.title": "Import Household Valid Items",
+  "projectSocialProtection.beneficiaryGrant.field.business_plan_reference": "Business investment plan reference",
   "projectSocialProtection.beneficiaryGrant.field.business_plan_status": "Business investment plan status"
 }
