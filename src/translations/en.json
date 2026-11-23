@@ -327,5 +327,6 @@
   "projectSocialProtection.beneficiaryGrant.field.business_plan_reference": "Business plan reference",
   "projectSocialProtection.beneficiaryGrant.field.business_plan_status": "Business plan status",
   "projectSocialProtection.beneficiaryGrant.field.utilization_percentage": "Utilisation (%)",
-  "projectSocialProtection.beneficiaryGrant.task.title": "Business plan approval"
+  "projectSocialProtection.beneficiaryGrant.task.title": "Business plan approval",
+  "socialProtection.benefitPlan.trainingDisqualificationPercentage": "Training disqualification percentage"
 }
