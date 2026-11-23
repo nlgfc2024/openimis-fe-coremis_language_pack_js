@@ -316,5 +316,6 @@
   "projectSocialProtection.beneficiaryGrant.tab.utilisationAssessment": "Utilisation assessment",
   "projectSocialProtection.beneficiaryGrant.field.business_plan_reference": "Business investment plan reference",
   "projectSocialProtection.beneficiaryGrant.field.business_plan_status": "Business investment plan status",
-  "projectSocialProtection.beneficiaryGrant.task.title": "Business investment plan approval"
+  "projectSocialProtection.beneficiaryGrant.task.title": "Business investment plan approval",
+  "socialProtection.benefitPlan.trainingDisqualificationPercentage": "Training disqualification percentage"
 }
