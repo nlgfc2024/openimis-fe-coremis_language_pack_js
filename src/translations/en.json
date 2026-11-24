@@ -348,5 +348,6 @@
   "appraisal.shortlist.group": "City",
   "appraisal.shortlist.overall": "No city places",
   "appraisal.shortlist.confirmMessage": "Scored applicants are ranked by score, then submission time, and the top places of each city are shortlisted for physical due diligence. Running it again replaces the previous shortlist.",
-  "appraisal.report.city": "City"
+  "appraisal.report.city": "City",
+  "appraisal.report.outsideCities": "Outside the cities"
 }
