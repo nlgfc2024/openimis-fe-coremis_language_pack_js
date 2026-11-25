@@ -346,5 +346,13 @@
   "projectSocialProtection.beneficiaryGrant.tab.businessAppraisal": "Business appraisal",
   "projectSocialProtection.beneficiaryGrant.tab.utilisationAssessment": "Utilisation assessment",
   "projectSocialProtection.beneficiaryGrant.task.title": "Business investment plan approval",
-  "socialProtection.benefitPlan.trainingDisqualificationPercentage": "Training disqualification percentage"
+  "socialProtection.benefitPlan.trainingDisqualificationPercentage": "Training disqualification percentage",
+  "appraisal.ranking.city": "City",
+  "appraisal.ranking.rank": "Rank in city",
+  "appraisal.score.rank": "Rank in city",
+  "appraisal.shortlist.group": "City",
+  "appraisal.shortlist.overall": "No city places",
+  "appraisal.shortlist.confirmMessage": "Scored applicants are ranked by score, then submission time, and the top places of each city are shortlisted for physical due diligence. Running it again replaces the previous shortlist.",
+  "appraisal.report.city": "City",
+  "appraisal.report.outsideCities": "Outside the cities"
 }
